@@ -1,0 +1,157 @@
+[
+    {
+        "first_name": "Chelsea",
+        "second_name": "Byrne",
+        "age": 73,
+        "sex": "Female",
+        "retired": false,
+        "marital_status": "married or civil partner",
+        "dependants": 2,
+        "salary": 82084.0,
+        "pension": 0.0,
+        "company": "White, Bray and Iqbal",
+        "commute_distance": 18.08,
+        "vehicle": {
+            "make": "GMC",
+            "model": "Amigo",
+            "year": 1998,
+            "category": "Sedan"
+        },
+        "credit_card": {
+            "start_date": "12/15",
+            "end_date": "02/29",
+            "number": 4054920547752,
+            "ccv": 635,
+            "iban": "GB97WUTP26823806991952"
+        },
+        "address": {
+            "street": "1 James meadow",
+            "city": "Gracetown",
+            "postcode": "L1 6GY"
+        }
+    },
+    {
+        "first_name": "Jacob",
+        "second_name": "Wood",
+        "age": 61,
+        "sex": "Male",
+        "retired": false,
+        "marital_status": "single",
+        "dependants": 2,
+        "salary": 77206.0,
+        "pension": 0.0,
+        "company": "Wilson PLC",
+        "commute_distance": 17.39,
+        "vehicle": {
+            "make": "Chevrolet",
+            "model": "Regal",
+            "year": 2016,
+            "category": "SUV"
+        },
+        "credit_card": {
+            "start_date": "05/16",
+            "end_date": "02/29",
+            "number": 4429182272670317,
+            "ccv": 790,
+            "iban": "GB28KUKE02321453145742"
+        },
+        "address": {
+            "street": "Studio 50 Booth court",
+            "city": "Jonesstad",
+            "postcode": "L4 2TH"
+        }
+    },
+    {
+        "first_name": "George",
+        "second_name": "Singh",
+        "age": 37,
+        "sex": "Male",
+        "retired": false,
+        "marital_status": "divorced",
+        "dependants": 3,
+        "salary": 21978.0,
+        "pension": 0.0,
+        "company": "Evans Inc",
+        "commute_distance": 6.94,
+        "vehicle": {
+            "make": "HUMMER",
+            "model": "Astro Passenger",
+            "year": 1998,
+            "category": "Van/Minivan"
+        },
+        "credit_card": {
+            "start_date": "08/17",
+            "end_date": "02/29",
+            "number": 4906852289655798,
+            "ccv": 496,
+            "iban": "GB53XBSV21627953089422"
+        },
+        "address": {
+            "street": "Studio 4 Harper heights",
+            "city": "Collinsborough",
+            "postcode": "WC12 9FX"
+        }
+    },
+    {
+        "first_name": "Raymond",
+        "second_name": "Phillips",
+        "age": 38,
+        "sex": "Male",
+        "retired": false,
+        "marital_status": "married or civil partner",
+        "dependants": 4,
+        "salary": 54381.0,
+        "pension": 0.0,
+        "company": "Webster and Sons",
+        "commute_distance": 13.79,
+        "vehicle": {
+            "make": "Ram",
+            "model": "Avalanche",
+            "year": 2009,
+            "category": "Pickup"
+        },
+        "credit_card": {
+            "start_date": "01/16",
+            "end_date": "02/29",
+            "number": 2452129063581934,
+            "ccv": 855,
+            "iban": "GB69RANW10846254437127"
+        },
+        "address": {
+            "street": "27 Alan keys",
+            "city": "New Benjaminview",
+            "postcode": "G74 8ZR"
+        }
+    },
+    {
+        "first_name": "Sean",
+        "second_name": "Newton",
+        "age": 32,
+        "sex": "Male",
+        "retired": false,
+        "marital_status": "widowed",
+        "dependants": 2,
+        "salary": 26791.0,
+        "pension": 0.0,
+        "company": "Glover Group",
+        "commute_distance": 8.19,
+        "vehicle": {
+            "make": "Audi",
+            "model": "A4",
+            "year": 1995,
+            "category": "SUV"
+        },
+        "credit_card": {
+            "start_date": "03/19",
+            "end_date": "02/29",
+            "number": 4354038556604662,
+            "ccv": 626,
+            "iban": "GB41YMIW38915785854585"
+        },
+        "address": {
+            "street": "0 Murray loop",
+            "city": "Vincenthaven",
+            "postcode": "L6 7SP"
+        }
+    }
+]
